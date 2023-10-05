@@ -53,6 +53,7 @@ footer p {
 
 .container {
     padding: 5px 5px;
+    word-spacing: 1px;
 }
 
 .h3 {
